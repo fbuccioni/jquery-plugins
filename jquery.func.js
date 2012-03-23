@@ -1,13 +1,29 @@
 /**
- * jquery.func.js version 0.2b
- *
+ * jquery.func.js version 1.0
  * jQuery method proxy with params and partially applied function plugin
  *
- * Ported by Felipe Alcacibar <falcacibar@gmail.com> from 
- * MochiKit javascript framework written by Bob Ippolito 
- * and distributed under the terms of MIT liscence.
+ * Copyright (C) 2009 Felipe Alcacibar <falcacibar@gmail.com>
  *
+ *
+ * Ported from MochiKit javascript framework written by Bob Ippolito 
+ * and distributed under the terms of MIT liscence.
  * 
+ * This program is free software; you can redistribute it and/or
+ * modify it under the terms of the GNU General Public License
+ * version 2 as published by the Free Software Foundation.
+ * 
+ * This program is distributed in the hope that it will be useful,
+ * but WITHOUT ANY WARRANTY; without even the implied warranty of
+ * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+ * GNU General Public License for more details.
+ * 
+ * You should have received a copy of the GNU General Public License
+ * along with this program; if not, write to the Free Software
+ * Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA  02110-1301, USA.
+ *
+ * License available in the following URL
+ * http://www.gnu.org/licenses/gpl-2.0.html
+ *
 **/
 
 (function($) {

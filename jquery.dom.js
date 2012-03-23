@@ -1,15 +1,32 @@
 /**
- * jquery.dom.js version 0.4b
+ * jquery.dom.js version 0.6
+ * jQuery DOM manipulation plugin 
+ * require jquery.func.js
  *
- * jQuery DOM manipulation plugin
- * written by Felipe Alcacibar <falcacibar@gmail.com>
+ * Copyright (C) 2009 Felipe Alcacibar <falcacibar@gmail.com>
  *
- * Liscenced under the terms of the MIT liscence.
  *
- * Based on MochiKit javascript framework DOM manipulation library 
- * and MochiKit bases in python Twisted Matrix framework
+ * Based on MIT liscenced MochiKit javascript framework DOM 
+ * manipulation library and MochiKit bases in python Twisted 
+ * Matrix framework
  * 
- **/
+ * This program is free software; you can redistribute it and/or
+ * modify it under the terms of the GNU General Public License
+ * version 2 as published by the Free Software Foundation.
+ * 
+ * This program is distributed in the hope that it will be useful,
+ * but WITHOUT ANY WARRANTY; without even the implied warranty of
+ * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+ * GNU General Public License for more details.
+ * 
+ * You should have received a copy of the GNU General Public License
+ * along with this program; if not, write to the Free Software
+ * Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA  02110-1301, USA.
+ *
+ * License available in the following URL
+ * http://www.gnu.org/licenses/gpl-2.0.html
+ *
+**/
 
 (function($) {
 	var htmlTags = "embed canvas a abbr acronym address applet area b base basefont bdo big blockquote body br button caption center cite code col colgroup dd del dfn dir div dl dt em fieldset font form frame frameset h1 h2 h3 h4 h5 h6 head hr html i iframe img input ins isindex kbd label legend li link map menu meta noframes noscript object ol optgroup option p param pre q s samp script select small span strike strong style sub sup table tbody td textarea tfoot th thead title tr tt u ul var"
