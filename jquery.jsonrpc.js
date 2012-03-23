@@ -1,6 +1,6 @@
 /**
  * jquery.jsonrpc.js - version 1.2
- * JSON-RPC Response parser for ajax calls
+ * JSON-RPC Response parser for jQuery ajax responses.
  *
  * Copyright (C) 2010 Felipe Alcacibar <falcacibar@gmail.com>
  *
